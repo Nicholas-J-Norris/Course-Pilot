@@ -2,9 +2,9 @@
 
 * Note that this FAQ section describes some hacks and undocumented features    
 * which we cannot recommend as a common practice when working with Course Pilot.   
-* **Use them at your own risk.**   
 * Note also that any of these backdoors may become unavailable in any further 
 * release without notice. 
+* ## Use them at your own risk.   
 
 ------------------
 ### Q.: Can I modify default text style properties in the Notes Editor?
