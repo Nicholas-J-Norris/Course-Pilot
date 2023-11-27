@@ -100,6 +100,7 @@ Adding a resource to Course Pilot is a very simple process and will allow you to
 6. Finally, click the "Ok" button to finish or "Cancel" to not save the file/URL.
 
 ![adding resource](https://github.com/Nicholas-J-Norris/Course-Pilot/assets/37165090/e5699c6a-05fe-4131-b8a9-b29fb6d05181)
+
 *Figure 9: adding a resource to Course Pilot.*
 
 ### Adding a custom tag 
@@ -111,6 +112,7 @@ Tags allow you to filter out any unneeded files or URLs from the overview.
 5. Click on "Ok" to assign the tag to the resource or "Cancel" to quit. 
 
 ![creating a tag](https://github.com/Nicholas-J-Norris/Course-Pilot/assets/37165090/db60d3e7-6f8b-4c39-9c17-659f87874dec)
+
 *Figure 10: creating a custom tag.*
 
 ### Filtering Resources
@@ -121,4 +123,7 @@ You can use any tags that have been made to filter the available resources.
 4. When you finish, you can reselect the option labeled "Filter Resources" from the same drop down box to remove all filtering and reach the default overlay. 
 
 ![filtering resources](https://github.com/Nicholas-J-Norris/Course-Pilot/assets/37165090/bb266a99-4825-414f-8aac-ce57497bb798)
+
 *Figure 11: using the tags to filter out resources.*
+
+### [Back to FAQ](https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/FAQ.md)
