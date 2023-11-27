@@ -49,4 +49,4 @@ A.: 1) Check if the "Enable localization" option in the Preferences dialog is
        and it has the proper file name syntax (see above).
 
 
-[Back to FAQ] (https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/FAQ.md)
+### [Back to FAQ](https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/FAQ.md)
