@@ -97,3 +97,5 @@ the "memoranda.properties" file in your Course Pilot user directory and add a li
 
 Note that this is a debug/troubleshooting mode and it is not recommended as a
 normal everyday way of using Course Pilot.
+
+### [Back to FAQ](https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/FAQ.md)
