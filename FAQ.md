@@ -10,6 +10,8 @@
 
 ### [Tips and Tricks](https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/Tips%20and%20Tricks.md)
 
+
+### [General Use guide](https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/General%20Use.md)
 ----------------
 ## MAC OS X
 
