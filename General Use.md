@@ -35,6 +35,12 @@ This menu gives an overview of the courses, and assignments that are planned for
 
 *Figure 5: the agenda menu.*
 
+---------------
+## Events Menu 
+This menu allows users to create, edit, and delete different events for a single course. The events that are present at any time will depend on the course that is selected in the course menu.
+
+![image](https://github.com/Nicholas-J-Norris/Course-Pilot/assets/37165090/879513e4-0ef5-457b-bc95-9ebeac013793)
+*Figure 6: the event menu.*
 ### Adding an event 
 You can add an event to a course which enables you to track different them for each separate course. This is accomplished through the following steps. 
 1. Click on the "New Event" icon at the top of the events menu bar. which will cause a dialog box to appear. 
@@ -45,4 +51,16 @@ You can add an event to a course which enables you to track different them for e
 6. Finally, click the "Ok" button to save this event or "Cancel" to start over.
 
 ![adding event demonstration](https://github.com/Nicholas-J-Norris/Course-Pilot/assets/37165090/1fa73192-0b75-42cf-a46e-877a126d6825)
-*Figure 6: Adding an event*
+*Figure 7: Adding an event*
+
+### Updating an event
+After creating an event, you can edit it at anytime to update any of the fields. This is done by the following. 
+1. Click the "Edit event" icon to bring up the same dialog box that is used for editing events. 
+2. Input the new event information. 
+3. Click "Ok" to save the changes.
+
+### Removing an event 
+Removing events is very simple, and allows you to keep your event information up to date. 
+1. Click on the event that you would like to delete.
+2. Click on the "Remove event" icon to delete the event. 
+3. Confirm or deny the deletion. 
