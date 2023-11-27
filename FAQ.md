@@ -1,10 +1,8 @@
 
-                            The Course Pilot FAQ
+# The Course Pilot FAQ
 
-================================================================================
-
-                        INSTALLATION AND RUNNING
-
+-----------------
+## [Installation and Running] (https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/Installation%20and%20Running.md)			
 -----------------
 Q.: I am neither under Windows nor KDE. Can I work with Course Pilot?
 
@@ -106,7 +104,7 @@ Note that this is a debug/troubleshooting mode and it is not recommended as a
 normal everyday way of using Course Pilot.
 	
 
-                               LOCALIZATION 
+## [Localization] (https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/Localization.md)
 
 -----------------
 Q.: What do I have to do to make localization for my language?
