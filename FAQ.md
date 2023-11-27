@@ -12,7 +12,7 @@
 
 ----------------
 ## MAC OS X
-----------------
+
 Some MacOS X users report that they experienced problems with Kunststoff L&F on
 their platform. So, we recommend to change the L&F settings either to 'System'
 or 'Java default'.    
