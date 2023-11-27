@@ -18,8 +18,7 @@ dependency libraries. If you prefer to have a portable script to run it from
 anywhere, you can replace the relative paths in the script by absolute ones.
 
 -----------------
-### Q.: May I be sure that my data and preferences will not be lost after 
-reinstalling or upgrading Course Pilot?
+### Q.: May I be sure that my data and preferences will not be lost after reinstalling or upgrading Course Pilot?
 
 A.: Yes. All data (diaries, tasks, events etc.) and preferences are stored 
 separately from the installation directory and will be unchanged even if you 
@@ -28,8 +27,7 @@ upgrading the application, you should have the same workspace as in the previous
 installation.  
 
 -----------------
-### Q.: Where Course Pilot stores my data and preferences? How to backup them or
-remove them after uninstalling the application?
+### Q.: Where Course Pilot stores my data and preferences? How to backup them or remove them after uninstalling the application?
 
 A.: This is a directory named ".memoranda" under the path defined by "user.home" 
 java system property: 
