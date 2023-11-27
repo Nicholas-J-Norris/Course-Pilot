@@ -1,4 +1,4 @@
-## [Localization] 
+## Localization 
 
 -----------------
 ### Q.: What do I have to do to make localization for my language?
@@ -47,3 +47,5 @@ A.: 1) Check if the "Enable localization" option in the Preferences dialog is
     3) Make sure that your new file is in the 
        "net/sf/memoranda/util/localmessages" directory of "build/memoranda.jar"
        and it has the proper file name syntax (see above).
+
+### [Back to FAQ] (https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/FAQ.md)
