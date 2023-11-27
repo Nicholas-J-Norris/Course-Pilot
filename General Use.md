@@ -64,3 +64,23 @@ Removing events is very simple, and allows you to keep your event information up
 1. Click on the event that you would like to delete.
 2. Click on the "Remove event" icon to delete the event. 
 3. Confirm or deny the deletion. 
+
+## Notes menu
+This menu allows users to write down notes that can be stored for a course. This has all of the rich text editing capabilities you would expect from a word processor. 
+
+![image](https://github.com/Nicholas-J-Norris/Course-Pilot/assets/37165090/4a2403b0-7f2c-4634-b41a-eddb65292e42)
+*Figure 8: overview of the notes menu in Course Pilot*
+
+Here is a short list of the features:
+1. Creating new notes.
+2. access to Cut/Copy/Paste operations. 
+3. Inserting the current time or date directly into the note. 
+4. Inserting files.
+5. Exporting the current note to a file. 
+6. Viewing the current note in a browser.
+7. Built in styles, such as paragraph, code, italics, and headings. 
+8. Creating bulleted lists, and numbered lists.
+9. Aligning text left, right or center. 
+10. Inserting images, tables, and hyperlinks. 
+11. A bookmark system for keeping track of notes. 
+12. A search function for finding words or phrases among the different notes that are available. 
