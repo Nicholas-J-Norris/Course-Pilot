@@ -1,9 +1,9 @@
 # Tips and Tricks
 
 * Note that this FAQ section describes some hacks and undocumented features    
-* which we cannot recommend as a common practice of working with Course Pilot.   
-* Use them on your own risk and don't complain if something goes wrong :-)     
-* Note also that any of these backdoors can get unavailable in any further 
+* which we cannot recommend as a common practice when working with Course Pilot.   
+* **Use them at your own risk.**   
+* Note also that any of these backdoors may become unavailable in any further 
 * release without notice. 
 
 ------------------
