@@ -1,2 +1,2 @@
 # Course-Pilot
-This repository stores public information pertaining to Course Pilot. 
+Welcome to Course Pilot! Course Pilot is an application primarily geared towards helping educators run their courses through a school semester. There are a number of features already developed with more being added as time goes on. This GitHub repo has an [FAQ](https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/FAQ.md) to help with [localization](https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/Localization.md), [installation](https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/Installation%20and%20Running.md), as well as a [basic how-to](https://github.com/Nicholas-J-Norris/Course-Pilot/blob/main/General%20Use.md). 
