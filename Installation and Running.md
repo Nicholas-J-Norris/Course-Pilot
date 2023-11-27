@@ -27,9 +27,9 @@ upgrading the application, you should have the same workspace as in the previous
 installation.  
 
 -----------------
-### Q.: Where Course Pilot stores my data and preferences? How to backup them or remove them after uninstalling the application?
+### Q.: Where does Course Pilot store my data and preferences? How do I back them up or remove them after uninstalling the application?
 
-A.: This is a directory named ".memoranda" under the path defined by "user.home" 
+A.: There is a directory named ".memoranda" under the path defined by "user.home" 
 java system property: 
 
     - On Win2K and WinXP it is usually 
@@ -44,21 +44,21 @@ java system property:
     NOTE that if you were the Course Pilot user when it was called "jNotes2", your
     directory is still named as ".jnotes2", not ".memoranda".
     
-To make a complete backup copy of all Course Pilot projects, events and 
-application preferences, simply make a copy of this directory. Similarly, to 
+To make a complete backup copy all of the Course Pilot projects, events and 
+application preferences, by simply making a copy of this directory. Similarly, to 
 remove them after uninstall, remove this directory.
 
 -----------------
-### Q.: Can multiple users work with the Course Pilot on the same machine?
+### Q.: Can multiple users work with Course Pilot on the same machine?
 
 A.: Yes. Due to separate user's directories (see the section above), each
-user have his own separate environment where the Course Pilot stores his projects 
+user has their own separate environment where the Course Pilot stores their projects 
 data and preferences.
 
 -----------------
 ### Q.: Can I have two or more Course Pilot applications started at once?
 
-A.: No. Every time when you launch Course Pilot, it checks if it is not already 
+A.: No. Every time you launch Course Pilot, it checks if it is not already 
 started. If started, it will not run a new process, but will try to restore a 
 window (if it was in the "hidden mode") or put the window to top (if it is 
 already opened). 
@@ -66,7 +66,7 @@ already opened).
 -----------------
 ### Q.: I get alarm notifications from my local firewall when Course Pilot starts.
 
-A.: The Course Pilot uses by default a socket connection on the local port 19432 to 
+A.: Course Pilot uses by default a socket connection on the local port 19432 to 
 be sure that it is not already started. The firewalls and other security 
 software may react to this connection, so you need to configure it to allow   
 trusted connections on this port for Course Pilot.
@@ -74,11 +74,11 @@ trusted connections on this port for Course Pilot.
 -----------------
 ### Q.: I get java.net.BindException when Course Pilot starts.
 
-A.: Probably it is a rare case when the Course Pilot port is already 
+A.: This is a rare case where the Course Pilot port is already 
 used by another application. You need to change the port number (see below).
 
 -----------------
-### Q.: How to change the default port number for Course Pilot?
+### Q.: How do I change the default port number for Course Pilot?
 
 A.: Open the "memoranda.properties" file in your Course Pilot user directory and 
 add a line: 
@@ -90,7 +90,7 @@ add a line:
 -----------------
 ### Q.: Can I disable port listening at all?
 
-A.: Yes, but it will allow to start more than one instances of Course Pilot. Open 
+A.: Yes, but it will allow you to start more than one instance of Course Pilot. Open 
 the "memoranda.properties" file in your Course Pilot user directory and add a line: 
 
 	CHECK_IF_ALREADY_STARTED = NO
